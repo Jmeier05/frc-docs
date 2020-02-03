@@ -8,7 +8,7 @@ the WPI drivetrain classes, see :doc:`wpi-drive-classes`.
 
 Using PWM Speed Controllers
 ---------------------------
-PWM speed controllers can be controlled in the same was as a CAN speed controller.
+PWM speed controllers can be controlled in the same space as a CAN speed controller.
 For a more detailed background on *how* they work, see
 :doc:`pwm-controllers`. To use a PWM speed controller, simply use the appropriate
 speed controller class provided by WPI
